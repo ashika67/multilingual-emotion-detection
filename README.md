@@ -71,4 +71,6 @@ Models are trained using extracted MFCCs and other relevant features from audio.
 
 ## 📬 Contact
 
-For questions or contributions, please open an issue or pull request.
+Author: Ashika M
+Email: ashikasjcetcse@gmail.com ✉️
+GitHub: https://github.com/ashika67 👨💻
